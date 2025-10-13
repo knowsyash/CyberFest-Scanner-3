@@ -1,4 +1,4 @@
-# Hacktoberfest2022-Repository
+# Hacktoberfest2025-Repository
 
 # How to contribute
 1. You can contribute in terms of Code
